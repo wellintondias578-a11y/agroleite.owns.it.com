@@ -1,0 +1,6 @@
+{
+  "name": "AGROLEITE — Ordenhadeiras, Peças e Equipamentos Leiteiros",
+  "description": "Loja virtual agropecuária especializada em ordenhadeiras inox, a gasolina, transferidores de leite, teteiras e peças de reposição com atendimento direto via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
